@@ -1,0 +1,145 @@
+body{
+    background-image: url(background.jpg);
+    color: white;
+    font-size: 1.1em;
+}
+header {
+    background-image: url(cars.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: navajowhite;
+}
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+h1{
+    color: red;
+}
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: #919191;
+    display: inline;
+    
+}
+
+nav ul li a 
+{
+    color: white;
+    text-decoration: none;
+
+}
+nav
+{
+  padding: 5px;
+
+}
+
+nav ul li
+{
+  padding: 15px;
+    margin: 5px;
+
+    border-radius: 10px;
+}
+nav ul li:hover
+{
+    background-color: green;
+}
+#aside1 {
+    margin-left: auto;
+    text-align: left;
+}
+
+#aside2 {
+    margin-right: auto;
+    text-align: right;
+}
+
+aside {
+    border: .5px solid red;
+    width: 18.5%;
+    float: right;
+}
+
+article {
+    font-size: 1.1em;
+    color: white;
+    width: 81%;
+}
+
+ol {
+    font-size: 1.1m.;
+}
+
+#header1 {
+    background-image: url(cars2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: navajowhite;
+}
+
+#bottom {
+    background-image: url(mclaren2008.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: navajowhite;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc; 
+  border-radius: 4px;
+  box-sizing: border-box; 
+  margin-top: 6px;
+  margin-bottom: 16px; 
+  resize: vertical;
+}
+.container {
+  border-radius: 5px;
+  padding: 20px;
+}
+#ul2 {
+    text-align: left;
+    font-size: 1.2em;
+}
+#ul2 submit {
+    list-style-type: none;
+    background-color: #4CAF50;
+    display: inline;
+}
+#ul2 submit {
+    color: white;
+    text-decoration: none;
+}
+#ul2 submit {
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+}
+#ul2 submit:hover {
+    background-color: #45a049;
+}
+#FormHeading {
+  font-size: 1.3em;
+  text-align: center;
+    color: red;
+}
+#map-vid {
+    color: black;
+}
